@@ -1,0 +1,19 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-02-28 11:55:19 --> Query error: Column 'created_user_id' cannot be null - Invalid query: INSERT INTO `orders` (`customer_id`, `customer_name`, `customer_email`, `customer_mobile`, `ordered_datetime`, `outlet_id`, `outlet_name`, `outlet_address`, `outlet_contact`, `outlet_receipt_footer`, `gift_card`, `subtotal`, `discount_total`, `discount_percentage`, `tax`, `grandtotal`, `total_items`, `payment_method`, `payment_method_name`, `cheque_number`, `paid_amt`, `return_change`, `created_user_id`, `created_datetime`, `vt_status`, `status`, `card_number`) VALUES ('1', 'counter', 'counter@gmail.com', '', '2024-02-28 11:55:19', '3', 'Birra Vino Resort', 'Mateka - Samoya Road\r\nBungoma, Kenya', '0718477560', '<p>M-PESA PAYBILLNO: <strong>522533&nbsp;</strong>Account No. <strong>7640069</strong>.</p><p>Thank you for enjoying us!</p>', '', '250.00', 0, '', '0.00', '250.00', '1', '1', 'Cash', '', '250', '0.00', NULL, '2024-02-28 11:55:19', '1', '1', '')
+ERROR - 2024-02-28 16:52:05 --> Query error: Column 'created_user_id' cannot be null - Invalid query: INSERT INTO `orders` (`customer_id`, `customer_name`, `customer_email`, `customer_mobile`, `ordered_datetime`, `outlet_id`, `outlet_name`, `outlet_address`, `outlet_contact`, `outlet_receipt_footer`, `gift_card`, `subtotal`, `discount_total`, `discount_percentage`, `tax`, `grandtotal`, `total_items`, `payment_method`, `payment_method_name`, `cheque_number`, `paid_amt`, `return_change`, `created_user_id`, `created_datetime`, `vt_status`, `status`, `card_number`) VALUES ('1', 'counter', 'counter@gmail.com', '', '2024-02-28 16:52:05', '3', 'Birra Vino Resort', 'Mateka - Samoya Road\r\nBungoma, Kenya', '0718477560', '<p>M-PESA PAYBILLNO: <strong>522533&nbsp;</strong>Account No. <strong>7640069</strong>.</p><p>Thank you for enjoying us!</p>', '', '280.00', 0, '', '0.00', '280.00', '1', '1', 'Cash', '', '280', '0.00', NULL, '2024-02-28 16:52:05', '1', '1', '')
+ERROR - 2024-02-28 16:56:40 --> Query error: Column 'created_user_id' cannot be null - Invalid query: INSERT INTO `orders` (`customer_id`, `customer_name`, `customer_email`, `customer_mobile`, `ordered_datetime`, `outlet_id`, `outlet_name`, `outlet_address`, `outlet_contact`, `outlet_receipt_footer`, `gift_card`, `subtotal`, `discount_total`, `discount_percentage`, `tax`, `grandtotal`, `total_items`, `payment_method`, `payment_method_name`, `cheque_number`, `paid_amt`, `return_change`, `created_user_id`, `created_datetime`, `vt_status`, `status`, `card_number`) VALUES ('1', 'counter', 'counter@gmail.com', '', '2024-02-28 16:56:40', '3', 'Birra Vino Resort', 'Mateka - Samoya Road\r\nBungoma, Kenya', '0718477560', '<p>M-PESA PAYBILLNO: <strong>522533&nbsp;</strong>Account No. <strong>7640069</strong>.</p><p>Thank you for enjoying us!</p>', '', '280.00', 0, '', '0.00', '280.00', '1', '1', 'Cash', '', '280', '0.00', NULL, '2024-02-28 16:56:40', '1', '1', '')
+ERROR - 2024-02-28 08:06:18 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-28 08:06:18 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-28 09:53:08 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-28 09:53:08 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-28 11:31:30 --> 404 Page Not Found: Wp-json/index
+ERROR - 2024-02-28 11:31:31 --> 404 Page Not Found: Wp-json/index
+ERROR - 2024-02-28 14:03:45 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-28 14:03:45 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-28 14:04:25 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-28 14:04:25 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-28 14:33:27 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-28 14:33:27 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-28 17:31:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-28 19:01:27 --> 404 Page Not Found: Faviconico/index

@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-10-23 07:32:34 --> 404 Page Not Found: _profiler/phpinfo
+ERROR - 2024-10-23 07:32:35 --> 404 Page Not Found: Infophp/index
+ERROR - 2024-10-23 07:32:37 --> 404 Page Not Found: Phpinfophp/index
+ERROR - 2024-10-23 07:32:38 --> 404 Page Not Found: Phpinfo/index
+ERROR - 2024-10-23 08:49:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-23 08:49:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-23 18:54:32 --> 404 Page Not Found: Phonesfaheliorg/assets
+ERROR - 2024-10-23 18:54:35 --> 404 Page Not Found: Phonesfaheliorg/assets
+ERROR - 2024-10-23 18:55:25 --> 404 Page Not Found: Phonesfaheliorg/assets
+ERROR - 2024-10-23 18:55:26 --> 404 Page Not Found: Phonesfaheliorg/assets
+ERROR - 2024-10-23 18:56:23 --> 404 Page Not Found: Phonesfaheliorg/assets
+ERROR - 2024-10-23 18:56:26 --> 404 Page Not Found: Phonesfaheliorg/assets
+ERROR - 2024-10-23 18:57:18 --> 404 Page Not Found: Phonesfaheliorg/assets
+ERROR - 2024-10-23 18:57:18 --> 404 Page Not Found: Phonesfaheliorg/assets
+ERROR - 2024-10-23 18:58:10 --> 404 Page Not Found: Phonesfaheliorg/assets
+ERROR - 2024-10-23 18:58:15 --> 404 Page Not Found: Phonesfaheliorg/assets
+ERROR - 2024-10-23 21:31:16 --> 404 Page Not Found: Phonesfaheliorg/assets
+ERROR - 2024-10-23 21:31:21 --> 404 Page Not Found: Phonesfaheliorg/assets
+ERROR - 2024-10-23 21:31:21 --> 404 Page Not Found: Phonesfaheliorg/assets
+ERROR - 2024-10-23 21:32:18 --> 404 Page Not Found: Phonesfaheliorg/assets
+ERROR - 2024-10-23 21:32:18 --> 404 Page Not Found: Phonesfaheliorg/assets
+ERROR - 2024-10-23 21:33:20 --> 404 Page Not Found: Phonesfaheliorg/assets
+ERROR - 2024-10-23 21:33:21 --> 404 Page Not Found: Phonesfaheliorg/assets
+ERROR - 2024-10-23 21:34:27 --> 404 Page Not Found: Phonesfaheliorg/assets
+ERROR - 2024-10-23 21:34:28 --> 404 Page Not Found: Phonesfaheliorg/assets
+ERROR - 2024-10-23 21:35:26 --> 404 Page Not Found: Phonesfaheliorg/assets
+ERROR - 2024-10-23 21:35:29 --> 404 Page Not Found: Phonesfaheliorg/assets

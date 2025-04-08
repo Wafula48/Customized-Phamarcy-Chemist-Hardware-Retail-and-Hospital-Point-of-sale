@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-04-16 01:20:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-16 01:38:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-16 01:39:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-16 01:39:37 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-16 01:39:37 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-16 01:39:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-16 01:49:29 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-16 01:49:29 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-16 04:36:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-16 09:07:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-16 09:20:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-16 09:26:19 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-16 09:26:19 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-16 09:38:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-16 13:30:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-16 13:30:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-16 13:45:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-16 13:45:58 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-16 13:45:58 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-16 14:13:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-16 14:22:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-16 14:45:37 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-16 14:45:37 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-16 14:46:29 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-16 14:46:29 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-16 14:59:35 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-16 14:59:35 --> 404 Page Not Found: Assets/js

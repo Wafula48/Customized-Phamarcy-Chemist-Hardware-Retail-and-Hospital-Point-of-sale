@@ -1,0 +1,41 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-01-29 06:14:48 --> 404 Page Not Found: Birravinofaheliorg/assets
+ERROR - 2024-01-29 06:14:49 --> 404 Page Not Found: Birravinofaheliorg/assets
+ERROR - 2024-01-29 06:14:59 --> 404 Page Not Found: Birravinofaheliorg/assets
+ERROR - 2024-01-29 06:15:00 --> 404 Page Not Found: Birravinofaheliorg/assets
+ERROR - 2024-01-29 06:15:20 --> 404 Page Not Found: Birravinofaheliorg/assets
+ERROR - 2024-01-29 06:15:20 --> 404 Page Not Found: Birravinofaheliorg/assets
+ERROR - 2024-01-29 06:15:30 --> 404 Page Not Found: Birravinofaheliorg/assets
+ERROR - 2024-01-29 06:15:31 --> 404 Page Not Found: Birravinofaheliorg/assets
+ERROR - 2024-01-29 06:15:51 --> 404 Page Not Found: Birravinofaheliorg/assets
+ERROR - 2024-01-29 06:15:52 --> 404 Page Not Found: Birravinofaheliorg/assets
+ERROR - 2024-01-29 06:16:01 --> 404 Page Not Found: Birravinofaheliorg/assets
+ERROR - 2024-01-29 06:16:01 --> 404 Page Not Found: Birravinofaheliorg/assets
+ERROR - 2024-01-29 07:04:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-01-29 07:04:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-01-29 07:05:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-01-29 07:05:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-01-29 07:05:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-01-29 07:05:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-01-29 16:47:48 --> Query error: Column 'created_user_id' cannot be null - Invalid query: INSERT INTO `orders` (`customer_id`, `customer_name`, `customer_email`, `customer_mobile`, `ordered_datetime`, `outlet_id`, `outlet_name`, `outlet_address`, `outlet_contact`, `outlet_receipt_footer`, `gift_card`, `subtotal`, `discount_total`, `discount_percentage`, `tax`, `grandtotal`, `total_items`, `payment_method`, `payment_method_name`, `cheque_number`, `paid_amt`, `return_change`, `created_user_id`, `created_datetime`, `vt_status`, `status`, `card_number`) VALUES ('3', 'moses', 'musawafula20002@gmail.com', '', '2024-01-29 16:47:48', '3', 'Birra Vino Resort', 'Mateka - Samoya Road\r\nBungoma, Kenya', '0718477560', '<p>M-PESA PAYBILLNO: <strong>522533&nbsp;</strong>Account No. <strong>7640069</strong>.</p><p>Thank you for enjoying us!</p>', '', '700.00', 0, '', '0.00', '700.00', '2', '1', 'Cash', '', '1000', '300.00', NULL, '2024-01-29 16:47:48', '1', '1', '')
+ERROR - 2024-01-29 07:49:04 --> 404 Page Not Found: Assets/js
+ERROR - 2024-01-29 07:49:04 --> 404 Page Not Found: Assets/js
+ERROR - 2024-01-29 09:29:17 --> 404 Page Not Found: Assets/js
+ERROR - 2024-01-29 09:29:17 --> 404 Page Not Found: Assets/js
+ERROR - 2024-01-29 09:30:01 --> 404 Page Not Found: Assets/js
+ERROR - 2024-01-29 09:30:01 --> 404 Page Not Found: Assets/js
+ERROR - 2024-01-29 09:37:02 --> 404 Page Not Found: Assets/js
+ERROR - 2024-01-29 09:37:02 --> 404 Page Not Found: Assets/js
+ERROR - 2024-01-29 10:40:01 --> 404 Page Not Found: Assets/js
+ERROR - 2024-01-29 10:40:01 --> 404 Page Not Found: Assets/js
+ERROR - 2024-01-29 11:03:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-01-29 11:19:32 --> 404 Page Not Found: Assets/js
+ERROR - 2024-01-29 11:19:32 --> 404 Page Not Found: Assets/js
+ERROR - 2024-01-29 11:24:38 --> 404 Page Not Found: Assets/js
+ERROR - 2024-01-29 11:24:38 --> 404 Page Not Found: Assets/js
+ERROR - 2024-01-29 15:30:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-01-29 21:21:35 --> 404 Page Not Found: Git/config
+ERROR - 2024-01-29 22:42:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-01-29 23:55:32 --> 404 Page Not Found: Assets/js
+ERROR - 2024-01-29 23:55:32 --> 404 Page Not Found: Assets/js

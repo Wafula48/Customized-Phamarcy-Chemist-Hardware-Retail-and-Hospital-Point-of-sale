@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-03-15 00:44:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-03-15 03:53:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-15 05:14:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-03-15 05:17:06 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 05:17:06 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 06:01:45 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 06:01:45 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 08:09:54 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 08:09:54 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 10:13:27 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 10:13:27 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 10:21:50 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 10:21:50 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 10:22:37 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 10:22:37 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 12:08:01 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 12:08:01 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 12:08:10 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 12:08:10 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 13:55:39 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 13:55:39 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 13:55:45 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 13:55:45 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 14:36:33 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 14:36:33 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 15:34:46 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 15:34:46 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 15:36:07 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 15:36:07 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 23:30:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-03-15 23:36:33 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-15 23:36:33 --> 404 Page Not Found: Assets/js

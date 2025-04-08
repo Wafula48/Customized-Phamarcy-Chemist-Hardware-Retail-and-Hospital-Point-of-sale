@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-10-25 01:02:28 --> 404 Page Not Found: Assets/js
+ERROR - 2024-10-25 01:02:29 --> 404 Page Not Found: Assets/js
+ERROR - 2024-10-25 01:02:30 --> 404 Page Not Found: Assets/js
+ERROR - 2024-10-25 05:51:10 --> 404 Page Not Found: Wp-admin/setup-config.php
+ERROR - 2024-10-25 05:51:10 --> 404 Page Not Found: Wordpress/wp-admin
+ERROR - 2024-10-25 08:41:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-25 08:42:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-25 20:11:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-25 20:11:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-25 22:04:56 --> 404 Page Not Found: Server/index
+ERROR - 2024-10-25 22:04:56 --> 404 Page Not Found: Vscode/sftp.json
+ERROR - 2024-10-25 22:04:56 --> 404 Page Not Found: About/index
+ERROR - 2024-10-25 22:04:57 --> 404 Page Not Found: Debug/default
+ERROR - 2024-10-25 22:04:57 --> 404 Page Not Found: V2/_catalog
+ERROR - 2024-10-25 22:04:58 --> 404 Page Not Found: Ecp/Current
+ERROR - 2024-10-25 22:04:58 --> 404 Page Not Found: Loginaction/index
+ERROR - 2024-10-25 22:04:59 --> 404 Page Not Found: _all_dbs/index
+ERROR - 2024-10-25 22:05:00 --> 404 Page Not Found: Application/config
+ERROR - 2024-10-25 22:05:00 --> 404 Page Not Found: Application/controllers
+ERROR - 2024-10-25 22:05:00 --> 404 Page Not Found: Application/language
+ERROR - 2024-10-25 22:05:01 --> 404 Page Not Found: Application/views
+ERROR - 2024-10-25 22:05:02 --> 404 Page Not Found: Assets/carousel
+ERROR - 2024-10-25 22:05:02 --> 404 Page Not Found: Assets/ckeditor
+ERROR - 2024-10-25 22:05:03 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-25 22:05:03 --> 404 Page Not Found: Assets/js
+ERROR - 2024-10-25 22:05:04 --> 404 Page Not Found: Assets/numberpad
+ERROR - 2024-10-25 22:05:05 --> 404 Page Not Found: Assets/upload
+ERROR - 2024-10-25 22:05:05 --> 404 Page Not Found: Assets/upload
+ERROR - 2024-10-25 22:05:06 --> 404 Page Not Found: Assets/upload
+ERROR - 2024-10-25 22:05:06 --> 404 Page Not Found: Install/assets
+ERROR - 2024-10-25 22:05:07 --> 404 Page Not Found: Install/config
+ERROR - 2024-10-25 22:05:07 --> 404 Page Not Found: Install/includes
+ERROR - 2024-10-25 22:05:08 --> 404 Page Not Found: Git/config
+ERROR - 2024-10-25 22:05:08 --> 404 Page Not Found: Configjson/index
+ERROR - 2024-10-25 22:05:09 --> 404 Page Not Found: Telescope/requests

@@ -1,0 +1,51 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-02-17 01:36:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 01:54:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 01:54:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 01:54:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 01:54:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 01:55:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 01:55:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 02:08:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 02:08:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 02:11:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 02:11:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 02:11:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 02:11:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 02:11:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 02:11:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 02:12:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 02:12:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 02:12:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 02:12:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 02:12:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 02:12:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 02:12:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 02:13:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 13:15:00 --> Query error: Column 'created_user_id' cannot be null - Invalid query: INSERT INTO `orders` (`customer_id`, `customer_name`, `customer_email`, `customer_mobile`, `ordered_datetime`, `outlet_id`, `outlet_name`, `outlet_address`, `outlet_contact`, `outlet_receipt_footer`, `gift_card`, `subtotal`, `discount_total`, `discount_percentage`, `tax`, `grandtotal`, `total_items`, `payment_method`, `payment_method_name`, `cheque_number`, `paid_amt`, `return_change`, `created_user_id`, `created_datetime`, `vt_status`, `status`, `card_number`) VALUES ('3', 'moses', 'musawafula20002@gmail.com', '', '2024-02-17 13:15:00', '3', 'Birra Vino Resort', 'Mateka - Samoya Road\r\nBungoma, Kenya', '0718477560', '<p>M-PESA PAYBILLNO: <strong>522533&nbsp;</strong>Account No. <strong>7640069</strong>.</p><p>Thank you for enjoying us!</p>', '', '200.00', 0, '', '0.00', '200.00', '4', '1', 'Cash', '', '200', '0.00', NULL, '2024-02-17 13:15:00', '1', '1', '')
+ERROR - 2024-02-17 13:15:04 --> Query error: Column 'created_user_id' cannot be null - Invalid query: INSERT INTO `orders` (`customer_id`, `customer_name`, `customer_email`, `customer_mobile`, `ordered_datetime`, `outlet_id`, `outlet_name`, `outlet_address`, `outlet_contact`, `outlet_receipt_footer`, `gift_card`, `subtotal`, `discount_total`, `discount_percentage`, `tax`, `grandtotal`, `total_items`, `payment_method`, `payment_method_name`, `cheque_number`, `paid_amt`, `return_change`, `created_user_id`, `created_datetime`, `vt_status`, `status`, `card_number`) VALUES ('3', 'moses', 'musawafula20002@gmail.com', '', '2024-02-17 13:15:04', '3', 'Birra Vino Resort', 'Mateka - Samoya Road\r\nBungoma, Kenya', '0718477560', '<p>M-PESA PAYBILLNO: <strong>522533&nbsp;</strong>Account No. <strong>7640069</strong>.</p><p>Thank you for enjoying us!</p>', '', '200.00', 0, '', '0.00', '200.00', '4', '1', 'Cash', '', '200', '0.00', NULL, '2024-02-17 13:15:04', '1', '1', '')
+ERROR - 2024-02-17 08:08:03 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-17 08:08:04 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-17 08:08:14 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-17 08:08:14 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-17 08:38:56 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-17 08:38:56 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-17 09:11:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 09:52:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 09:52:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 09:52:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 09:52:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 09:53:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 09:53:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 09:59:02 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-17 09:59:02 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-17 10:57:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-17 11:01:35 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-17 11:01:35 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-17 11:31:48 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-17 11:31:48 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-17 14:29:09 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-17 14:29:09 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-17 14:39:31 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-17 14:39:31 --> 404 Page Not Found: Assets/js

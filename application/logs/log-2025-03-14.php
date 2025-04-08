@@ -1,0 +1,41 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2025-03-14 09:03:33 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 09:03:38 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 09:03:40 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 09:05:45 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 07:48:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2025-03-14 08:19:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2025-03-14 11:41:59 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 11:42:05 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 11:42:15 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 11:42:20 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 11:42:38 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 11:43:24 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 11:43:28 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 11:43:29 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 11:52:42 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 11:55:14 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 12:08:28 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 18:15:43 --> Query error: Column 'created_user_id' cannot be null - Invalid query: INSERT INTO `orders` (`customer_id`, `customer_name`, `customer_email`, `customer_mobile`, `ordered_datetime`, `outlet_id`, `outlet_name`, `outlet_address`, `outlet_contact`, `outlet_receipt_footer`, `gift_card`, `subtotal`, `discount_total`, `discount_percentage`, `tax`, `grandtotal`, `total_items`, `payment_method`, `payment_method_name`, `cheque_number`, `paid_amt`, `return_change`, `created_user_id`, `created_datetime`, `vt_status`, `status`, `card_number`) VALUES ('5', 'WALKIN CUSTOMER', 'isaacrex@gmail.com', '0729522530', '2025-03-14 18:15:43', '3', 'BUKEMBELIFE CHEMIST', 'P.O BOX 183 ,50200\r\nBUNGOMA,KENYA.', '0715420005', '<p>M-PESA PAYBILLNO:247247Account No. <strong>0727146240</strong></p><p>Thank you for shoppingr with us!</p>', '', '110.00', '5', '', '0.00', '110.00', '31', '1', 'Cash', '', '110', '0.00', NULL, '2025-03-14 18:15:43', '1', '1', '')
+ERROR - 2025-03-14 18:16:36 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 18:16:39 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 18:16:42 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 18:24:03 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 18:26:19 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 18:36:09 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 15:52:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2025-03-14 15:52:27 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2025-03-14 20:00:43 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 20:23:25 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 20:25:43 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 20:25:46 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 20:25:47 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 20:41:47 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 20:41:52 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 20:41:57 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 20:42:00 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 20:42:29 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 20:46:44 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 20:50:31 --> Could not find the language line "opened_bill"
+ERROR - 2025-03-14 20:50:33 --> Could not find the language line "opened_bill"

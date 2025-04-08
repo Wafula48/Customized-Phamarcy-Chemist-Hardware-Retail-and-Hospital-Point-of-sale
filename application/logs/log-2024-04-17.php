@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-04-17 01:00:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-17 03:23:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-17 04:01:36 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-17 04:01:36 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-17 05:07:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-17 05:07:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-17 08:14:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-17 08:55:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-17 09:24:04 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-17 09:24:04 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-17 09:29:15 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-17 09:29:15 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-17 09:57:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-17 09:57:46 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-17 09:57:47 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-17 10:54:08 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-17 10:54:08 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-17 12:38:03 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-17 12:38:03 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-17 12:38:33 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-17 12:38:33 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-17 12:54:58 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-17 12:54:59 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-17 12:57:57 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-17 12:57:57 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-17 15:39:51 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-17 15:39:51 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-17 15:41:34 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-17 15:41:34 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-17 15:44:53 --> 404 Page Not Found: Assets/js
+ERROR - 2024-04-17 15:44:53 --> 404 Page Not Found: Assets/js

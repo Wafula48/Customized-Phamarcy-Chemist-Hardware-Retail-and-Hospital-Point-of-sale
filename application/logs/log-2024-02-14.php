@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-02-14 00:39:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-14 09:38:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-14 10:28:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-14 10:28:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-14 10:31:50 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-14 10:31:50 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-14 10:37:13 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-14 10:37:13 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-14 10:37:20 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-14 10:37:21 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-14 10:48:06 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-14 10:48:06 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-14 11:11:25 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-14 11:11:25 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-14 11:24:04 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-14 11:24:04 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-14 11:24:33 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-14 11:24:33 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-14 12:27:37 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-14 12:27:37 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-14 13:39:36 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-14 13:39:36 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-14 13:40:09 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-14 13:40:09 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-14 14:53:44 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-14 14:53:44 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-14 15:24:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-14 15:26:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-14 22:22:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-14 22:22:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-14 22:22:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-14 22:22:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-14 22:22:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-14 22:22:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-14 22:23:07 --> 404 Page Not Found: Faviconico/index

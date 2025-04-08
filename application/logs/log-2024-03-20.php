@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-03-20 00:29:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-03-20 01:17:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-03-20 04:21:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-03-20 07:33:59 --> 404 Page Not Found: Git/config
+ERROR - 2024-03-20 10:14:29 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-20 10:14:29 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-20 10:21:45 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-20 10:21:45 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-20 10:22:16 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-20 10:22:16 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-20 10:30:12 --> 404 Page Not Found: Git/config
+ERROR - 2024-03-20 11:30:50 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-20 11:30:51 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-20 14:10:42 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-20 14:10:42 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-20 15:44:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-03-20 15:45:34 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-20 15:45:34 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-20 17:05:30 --> 404 Page Not Found: Birravinofaheliorg/assets
+ERROR - 2024-03-20 17:05:30 --> 404 Page Not Found: Birravinofaheliorg/assets
+ERROR - 2024-03-20 17:05:52 --> 404 Page Not Found: Birravinofaheliorg/assets
+ERROR - 2024-03-20 17:05:53 --> 404 Page Not Found: Birravinofaheliorg/assets
+ERROR - 2024-03-20 17:06:15 --> 404 Page Not Found: Birravinofaheliorg/assets
+ERROR - 2024-03-20 17:06:15 --> 404 Page Not Found: Birravinofaheliorg/assets
+ERROR - 2024-03-20 17:06:37 --> 404 Page Not Found: Birravinofaheliorg/assets
+ERROR - 2024-03-20 17:06:38 --> 404 Page Not Found: Birravinofaheliorg/assets
+ERROR - 2024-03-20 23:07:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-03-20 23:08:22 --> 404 Page Not Found: Assets/js
+ERROR - 2024-03-20 23:08:22 --> 404 Page Not Found: Assets/js
